@@ -1,0 +1,9 @@
+[ButtonSizing]
+ButtonCustomCornerRadius=6
+
+[Global]
+LookAndFeelSet=Nordic
+
+[Windeco]
+ButtonIconStyle=StyleArk
+IconSize=IconMedium
