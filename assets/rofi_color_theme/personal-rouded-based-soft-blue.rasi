@@ -13,3 +13,5 @@
 }
 
 @import "template/rounded-template.rasi"
+
+//this file contain the colors and the template call used in the config
