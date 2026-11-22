@@ -1,1 +1,1 @@
-the location of rofi themes files normally is "/home/lucas/.local/share/rofi/themes" so just copy and paste it there.
+the location of rofi themes files normally is "/home/.local/share/rofi/themes" so just copy and paste it there.
